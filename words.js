@@ -1,0 +1,24 @@
+﻿const wordData = [
+  { word: "社團", meaning: "club; society", example: "我加入了學校的音樂社團。(I joined the school's music club.)" },
+  { word: "校園", meaning: "campus", example: "我們的校園很大。(Our campus is very large.)" },
+  { word: "擺", meaning: "to place; to arrange", example: "她把花瓶擺在桌子上。(She placed the vase on the table.)" },
+  { word: "攤子", meaning: "stall; booth (in a market or street)", example: "市場裡有很多賣小吃的攤子。(There are many stalls selling snacks in the market.)" }
+  { word: "社員", meaning: "member (of a club or organization)", example: "他是我們社團的社員。(He is a member of our club.)" },
+  { word: "選擇", meaning: "to choose; choice", example: "你可以選擇自己喜歡的顏色。(You can choose your favorite color.)" },
+  { word: "立刻", meaning: "immediately; at once", example: "他立刻回答了問題。(He answered the question immediately.)" },
+  { word: "鋼琴", meaning: "piano", example: "她彈鋼琴彈得很好。(She plays the piano very well.)" },
+  { word: "功夫", meaning: "kung fu; skill", example: "他學了幾年的功夫。(He has studied kung fu for several years.)" },
+  { word: "感興趣", meaning: "to be interested in", example: "我對學習語言很感興趣。(I’m very interested in learning languages.)" },
+  { word: "藝術", meaning: "art", example: "這是一幅現代藝術作品。(This is a piece of modern art.)" },
+  { word: "厲害", meaning: "amazing; formidable", example: "他的中文說得很厲害。(His Chinese is amazing.)" },
+  { word: "保護", meaning: "to protect", example: "我們應該保護環境。(We should protect the environment.)" },
+  { word: "勇敢", meaning: "brave; courageous", example: "她很勇敢，從不怕挑戰。(She is brave and never afraid of challenges.)" },
+  { word: "吉他", meaning: "guitar", example: "他學會了彈吉他。(He learned how to play the guitar.)" },
+  { word: "愛心", meaning: "love; compassion", example: "她有一顆充滿愛心的心。(She has a heart full of love.)" },
+  { word: "服務", meaning: "service", example: "這家餐廳的服務很好。(The service at this restaurant is great.)" },
+  { word: "技巧", meaning: "skill; technique", example: "他在游泳方面有很高的技巧。(He has excellent swimming skills.)" },
+  { word: "複習", meaning: "to review; to revise", example: "考試前我會複習所有的內容。(I will review all the material before the exam.)" },
+  { word: "地球", meaning: "Earth", example: "我們應該保護地球，減少污染。(We should protect the Earth and reduce pollution.)" },
+  { word: "互相", meaning: "mutually; each other", example: "我們應該互相幫助。(We should help each other.)" },
+  { word: "戀愛", meaning: "romantic love; to fall in love", example: "他們正在戀愛中。(They are in a romantic relationship.)" }
+];
