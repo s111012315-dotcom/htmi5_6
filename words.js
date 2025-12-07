@@ -2,7 +2,7 @@
   { word: "社團", meaning: "club; society", example: "我加入了學校的音樂社團。(I joined the school's music club.)" },
   { word: "校園", meaning: "campus", example: "我們的校園很大。(Our campus is very large.)" },
   { word: "擺", meaning: "to place; to arrange", example: "她把花瓶擺在桌子上。(She placed the vase on the table.)" },
-  { word: "攤子", meaning: "stall; booth (in a market or street)", example: "市場裡有很多賣小吃的攤子。(There are many stalls selling snacks in the market.)" }
+  { word: "攤子", meaning: "stall; booth (in a market or street)", example: "市場裡有很多賣小吃的攤子。(There are many stalls selling snacks in the market.)" },
   { word: "社員", meaning: "member (of a club or organization)", example: "他是我們社團的社員。(He is a member of our club.)" },
   { word: "選擇", meaning: "to choose; choice", example: "你可以選擇自己喜歡的顏色。(You can choose your favorite color.)" },
   { word: "立刻", meaning: "immediately; at once", example: "他立刻回答了問題。(He answered the question immediately.)" },
@@ -22,3 +22,4 @@
   { word: "互相", meaning: "mutually; each other", example: "我們應該互相幫助。(We should help each other.)" },
   { word: "戀愛", meaning: "romantic love; to fall in love", example: "他們正在戀愛中。(They are in a romantic relationship.)" }
 ];
+
